@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contactEmailRot13</key>
+	<string>ohaqyrf@grkgzngr.bet</string>
+	<key>contactName</key>
+	<string>Michael Sheets</string>
+	<key>description</key>
+	<string>Language for research in algebraic geometry.</string>
+	<key>name</key>
+	<string>Macaulay 2</string>
+	<key>uuid</key>
+	<string>DC258F06-3AE8-44F0-BE31-BC050B7F3458</string>
+</dict>
+</plist>
